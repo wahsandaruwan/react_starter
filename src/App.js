@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <>
-      <h1>Counter App</h1>
+      <h1>React 18 Starter Project</h1>
     </>
   )
 }
